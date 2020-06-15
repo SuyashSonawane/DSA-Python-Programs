@@ -1,5 +1,5 @@
 """
-@Author Suyash Sonawane
+@Author: Suyash Sonawane (https://github.com/SuyashSonawane)
 
 Write a python program to compute following computation on matrix:
 a) Addition of two matrices

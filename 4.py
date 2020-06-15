@@ -1,5 +1,5 @@
 """
-@Author: Suyash Sonawane
+@Author: Suyash Sonawane (https://github.com/SuyashSonawane)
 
 Write a Python program that computes the net amount of a bank account based a
 transaction log from console input. The transaction log format is shown as following: D
