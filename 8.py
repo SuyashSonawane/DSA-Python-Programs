@@ -24,7 +24,6 @@ def main():
 				if mat[i][j] == max([k[j] for k in mat]):
 					flag = 1
 					print("\nSaddle point found at {0}, {1}".format(i+1, j+1))
-				break
 	if flag == 0:
 		print("No saddle point exists")
 
